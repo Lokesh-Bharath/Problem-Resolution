@@ -1,0 +1,91 @@
+
+  .logout {
+    position: absolute;
+    top: 30px;
+    right: 50px;
+    background-color: #FE6244;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .container {
+    width: 1000px;
+    background: #FFDEB9;
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 1rem;
+    text-align: center;
+    margin-top: 20rem;
+    margin-bottom: 20rem;
+  }
+  
+  .container > .header > h1 {
+    color: #2D2727;
+    font-size: 2rem;
+    margin: 1rem 0;
+    padding: 0.5rem 0.75rem;
+  }
+  
+  .home {
+    align-items: center;
+    text-align: center;
+  }
+  
+  .customer_info > input {
+    border-radius: 8px;
+    border: 2px solid #dddfe2;
+    color: #1d2129;
+    outline: none;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+    width: 92%;
+    font-size: 1rem;
+  }
+
+  .customer_info > textarea {
+    border-radius: 8px;
+    border: 2px solid #dddfe2;
+    color: #1d2129;
+    outline: none;
+    margin: 0.5rem 0;
+    margin-bottom: 0;
+    padding: 0.5rem 0.75rem;
+    width: 92%;
+    font-size: 1rem;
+  }
+  
+
+
+ span {
+    margin: 5%;
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+  }
+  .customer_info > .submit {
+    background: #4caf4f;
+    margin: 1rem 0;
+    position: relative;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+  }
+  
+ .submit{
+    width: 100px;
+ }
+
+ .ant-btn
+ {
+    height: 60px !important;
+    width: 250px
+ }
